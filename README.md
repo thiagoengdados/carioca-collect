@@ -15,7 +15,7 @@ https://www.espn.com.br/futebol/times
 Logo depois precisamos ir na aba de resultados conforme foto abaixo:
 
 
-<img src="/img/2.png">
+<img src="/img/1.png">
 
 
 
