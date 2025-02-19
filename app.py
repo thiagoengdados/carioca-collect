@@ -12,7 +12,7 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36',
 }
 
-url='https://www.espn.com.br/futebol/time/resultados/_/id/819/liga/BRA.1/temporada/2024'
+url='https://www.espn.com.br/futebol/time/resultados/_/id/819/liga/BRA.CAMP.CARIOCA'
 
 response = requests.get(url, headers=headers)
 
