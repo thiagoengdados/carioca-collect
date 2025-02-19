@@ -9,7 +9,7 @@ Primeiro você vai precisar entrar no link abaixo e selecionar o time que deseja
 https://www.espn.com.br/futebol/times
 
 
-<img src="/img/1.png">
+
 
 
 Logo depois precisamos ir na aba de resultados conforme foto abaixo:
