@@ -10,11 +10,11 @@ https://www.espn.com.br/futebol/times
 
 <img src="/img/1.png">
 
-
-
 Logo depois precisamos ir na aba de resultados conforme foto abaixo:
 
 
+
+<img src="/img/2.png">
 
 
 
@@ -59,3 +59,4 @@ Aqui teremos o retorno dos dados:
 <br>
 
 A partir de agora você tem o resultado campeonato e time desejado Placar e Data do jogo.
+
